@@ -76,3 +76,4 @@ This project is an excellent introduction to natural language processing, basic 
 
 *OUTPUT* :
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fe3fa672-9ada-49d5-b176-3071c05d41ef" />
